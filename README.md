@@ -5,6 +5,7 @@ A Collection of Google Colab Notebooks for scripts & projects
 ### MiniMax
 | Notebooks | Info
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Contributions/LorasRef2vaHf_Minimax_H3_0_2.ipynb)  | ComfyUI-MiniMax-H3 Reference to Video by [@know1234567](https://github.com/know1234567) (Tested on the L4)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Contributions/MinimaxMusic3.ipynb)  | ComfyUI-MiniMaxMusic3 for Music Generation
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Contributions/Minimax_H3.ipynb)  | ComfyUI-MiniMax-H3 for Video Generation (Tested on the L4)
 
@@ -28,6 +29,10 @@ A Collection of Google Colab Notebooks for scripts & projects
 ### Wan
 | Notebooks | Info
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/wan2_2/wan22_FirstLastFrame2Video.ipynb)  | First-Last Frame to Video with Wan2.2
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/wan2_2/wan22_Lightx2v%20Infinite.ipynb) | Infinite Image to Video with Wan2.2 (by [@know1234567](https://github.com/know1234567))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/wan2_2/wan22_Lightx2v.ipynb)  | I2V with Wan2.2 using Lightx2v LoRA
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/wan2_2/wan22_T2V_Lightx2v.ipynb)  | T2V with Wan2.2 using Lightx2v LoRA
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/Wan_2_2_Animate/ComfyUI_Wan22_Animate.ipynb)  | ComfyUI - Img+Vid2Vid with Wan2.2 Animate (Tested on the L4)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Wan2_1_T2V_1_3B_DiffSynth.ipynb)  | T2V & T2I with Wan2.1_T2V_1.3B (Compute units Required)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Wan2_1_T2V_14B.ipynb)  | T2V & T2I with Wan2_1_T2V_14B (Compute units Required)
@@ -42,10 +47,7 @@ A Collection of Google Colab Notebooks for scripts & projects
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Wan2_1_VACE_&_CausVid_LoRA_4_Video_to_Video.ipynb)  | Wan 2.1 VACE 14B & CausVid LoRA for Video to Video Generation
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Wan2_1_VACE_Img2Img_PoseTransfer.ipynb)  | Wan 2.1 VACE 14B & CausVid LoRA for Image to Image Pose Transfer (Experimental)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/wan_2_1/Faster_wan2_1_Causvid_Lightx2v_FusionX.ipynb)  | Faster I2V with Wan2.1 using Causvid, Lightx2v & Fusionx LoRAs
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/wan2_2/wan22_Lightx2v.ipynb)  | I2V with Wan2.2 using Lightx2v LoRA
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/wan2_2/wan22_T2V_Lightx2v.ipynb)  | T2V with Wan2.2 using Lightx2v LoRA
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/wan2_2/wan22_FirstLastFrame2Video.ipynb)  | First-Last Frame to Video with Wan2.2
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/wan2_2/wan22_Lightx2v%20Infinite.ipynb) | Infinite Image to Video with Wan2.2 (by [@know1234567](https://github.com/know1234567))
+
 
 
 
